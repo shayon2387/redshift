@@ -1,2 +1,1 @@
-text tiepoere aslkdjaslkdjas
-# redshift
+# bigdata-with-redshift
